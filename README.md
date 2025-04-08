@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 ## Date:08.04.2025
-## Name:ASHOK S
+## Name: ASHOK S
 ## REG NO:212224040031
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
