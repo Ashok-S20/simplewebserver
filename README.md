@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:08.04.2025
+## Date: 08.04.2025
 ## Name: ASHOK S
 ## REG NO:212224040031
 ## AIM:
@@ -34,7 +34,7 @@ Serve the HTML pages.
 Start the server script and check for errors.
 
 ### Step 10:
-Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
+Open a browser and navigate to http://127.0.0.1:8001 (or the assigned port).
 
 ## PROGRAM:
 from http.server import HTTPServer,BaseHTTPRequestHandler
