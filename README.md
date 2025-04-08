@@ -102,12 +102,11 @@ class MyServer(BaseHTTPRequestHandler):
         self.wfile.write(content.encode())
 
 print("My webserver is running") 
-server_address =('',8008)
+server_address =('',8001)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
-
 ## OUTPUT:
 ![alt text](<Screenshot (11).png>)
-![alt text](<Screenshot (10).png>)
+![alt text](<Screenshot (12).png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
