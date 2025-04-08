@@ -56,7 +56,6 @@ content='''<!doctype html>
 </head>
 <body>
 <center><h1 style="font-family: cursive;"><u>TCP/IP PROTOCOLS</u></h1><br>
-</center>
 <table>
 <tr>
 <th>S.NO</th>
@@ -89,6 +88,7 @@ content='''<!doctype html>
 <td>MAC</td>
 </tr>
 </table>
+</center>
 </body>
 </html>
 '''
