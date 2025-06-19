@@ -40,7 +40,7 @@ Open a browser and navigate to http://127.0.0.1:8001 (or the assigned port).
 ```
 from http.server import HTTPServer,BaseHTTPRequestHandler
 
-content='''<!doctype html>
+content=<!doctype html>
 <html>
 <head>
 <title> My Web Server</title>
@@ -92,7 +92,6 @@ content='''<!doctype html>
 </center>
 </body>
 </html>
-'''
 
 class MyServer(BaseHTTPRequestHandler):
     def do_GET(self):
